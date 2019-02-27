@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自定义天气</string>
+    <string name="weather_layout_text">~</string>
+</resources>
